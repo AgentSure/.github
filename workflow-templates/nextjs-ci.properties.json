@@ -1,0 +1,7 @@
+{
+  "name": "Next.js CI",
+  "description": "Lint, typecheck, test, and build a Next.js app on every PR and push to main.",
+  "iconName": "octicon octicon-flame",
+  "categories": ["JavaScript", "TypeScript"],
+  "filePatterns": ["package.json", "next.config.js", "next.config.mjs", "next.config.ts"]
+}

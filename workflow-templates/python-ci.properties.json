@@ -1,0 +1,7 @@
+{
+  "name": "Python CI",
+  "description": "Lint with ruff and run pytest on every PR and push to main.",
+  "iconName": "octicon octicon-graph",
+  "categories": ["Python"],
+  "filePatterns": ["requirements.txt", "pyproject.toml"]
+}
